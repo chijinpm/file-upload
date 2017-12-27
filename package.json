@@ -1,0 +1,24 @@
+{
+  "name": "file-upload",
+  "version": "1.0.0",
+  "description": "choose file to upload to server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chijinpm/file-upload.git"
+  },
+  "keywords": [
+    "file",
+    "upload",
+    "server"
+  ],
+  "author": "stw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chijinpm/file-upload/issues"
+  },
+  "homepage": "https://github.com/chijinpm/file-upload#readme"
+}
